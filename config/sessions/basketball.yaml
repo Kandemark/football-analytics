@@ -1,0 +1,4 @@
+filter: teamcolor
+tracker: sorttracker
+renderer: plainheatmap
+exporter: videooverlay

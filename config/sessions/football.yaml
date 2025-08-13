@@ -1,0 +1,4 @@
+filter: ballonly
+tracker: sorttracker
+renderer: plainheatmap
+exporter: csv
